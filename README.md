@@ -1,3 +1,5 @@
+# Tours- Project
+
 ## Steps
 
 #### Setup
@@ -34,8 +36,7 @@ Overall, the flow of the application should look something like this:
 
 - When the "re-fetch" button is clicked, the Tours component re-fetches the tours data from the URL and updates its state.
 
--fetched the data
-
+-fetched the data through API
 - rendering data
 - loading page -
 - error
@@ -45,3 +46,5 @@ Overall, the flow of the application should look something like this:
 - read more
 - show less functionality
 - diployed
+
+## Website is Live [Here](https://mission-react-tours-project.netlify.app/) 
